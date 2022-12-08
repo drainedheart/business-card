@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+    
+}
+.elvo{
+    width: 150px;
+}
+.card{
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 6px solid purple;
+}
+.border-blue{
+    border: 1px dotted blue;
+}
